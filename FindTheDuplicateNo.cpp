@@ -4,7 +4,7 @@
 //Pigeon-hole principle : here elements(n) is a pigeon and n+1 array is hole;
 
 int findDuplicate(vector<int>& nums) {
-    //Fast and Slow Pointer O(n)
+    //Fast and Slow Pointer O(n)--
     // int slow=nums[0];
     // int fast=nums[nums[0]];
     // while(slow!=fast){
